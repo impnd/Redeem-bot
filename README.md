@@ -2,6 +2,8 @@
 
 A simple Discord bot built with [discord.js v14](https://discord.js.org) and [CommandKit](https://commandkit.js.org) to handle redeem code commands with ease.
 
+## ❗ The bot is not ready to use yet
+
 ---
 
 ## 📦 Features
@@ -48,3 +50,7 @@ Edit `src/config/dev-config.json` :
 ```
 node .
 ```
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
