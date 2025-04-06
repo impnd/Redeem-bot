@@ -1,0 +1,44 @@
+{
+  "name": "redeem-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot built with Discord.js v14 that simplifies the process of redeeming codes for users.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint .",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "redeem",
+    "code redemption",
+    "discord-bot"
+  ],
+  "author": "impnd",
+  "license": "MIT",
+  "dependencies": {
+    "commandkit": "^0.1.6",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.0.0",
+    "nodemon": "^3.1.9"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/impnd/Redeem-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/impnd/Redeem-bot/issues"
+  },
+  "homepage": "https://github.com/impnd/Redeem-bot#readme"
+}
