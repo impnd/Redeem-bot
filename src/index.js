@@ -23,7 +23,7 @@ new CommandKit({
   devUserIds: devConfig.users,
   devRoleIds: devConfig.roles,
   skipBuiltInValidations: true,
-  bulkRegister: false,
+  bulkRegister: true,
 });
 
 client.login(process.env.BOT_TOKEN);

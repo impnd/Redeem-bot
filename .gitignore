@@ -1,3 +1,9 @@
 .env
 node_modules/
 eslint.config.mjs
+/src/config/devConfig.json
+src/config/devConfig.json
+src/config/devConfig.json
+src/config/devConfig.json
+src/config/devConfig.json
+src/config/codes.json
